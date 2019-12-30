@@ -1,0 +1,7 @@
+C:\Users\oobumneme\source\repos\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\oobumneme\source\repos\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\oobumneme\source\repos\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\oobumneme\source\repos\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\oobumneme\source\repos\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\oobumneme\source\repos\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\oobumneme\source\repos\Manager\Manager\obj\Debug\Manager.pdb
